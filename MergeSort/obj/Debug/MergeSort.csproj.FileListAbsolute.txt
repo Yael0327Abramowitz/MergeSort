@@ -1,0 +1,7 @@
+C:\Users\yaela\source\repos\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\yaela\source\repos\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\yaela\source\repos\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\yaela\source\repos\MergeSort\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+C:\Users\yaela\source\repos\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\yaela\source\repos\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\yaela\source\repos\MergeSort\obj\Debug\MergeSort.pdb
